@@ -43,10 +43,11 @@ After collecting the data we ventured a prolific analysis using the following te
 
 -  Spearman correlation of different metrics has being calculated and observed some correlation between states which have higher COVID-19 confirmed cases and states which have lower COVID-19 cases in the following metrics.
 
-    1. Transit metric
-
-    2. Temperature metric
-
+1. Transit metric
+![Transit Metric](images/image2.png)
+2. Temperature metric
+![Temperature Metric](images/image1.png)
+    
 - We also observed 14 day moving avg data have better correlation with the metrics,
 
 - We need to study/focus more on transit related phenomenon and temperature related features. 
